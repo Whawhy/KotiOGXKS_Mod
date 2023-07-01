@@ -21,8 +21,8 @@
             {
                 "TYPING_LETTER":
                 [
-                    "sounds/onia.wav",
-                    "sounds/burgir.wav"
+                    "sounds/onia.wav"
+                 
                 ],
                 "TYPING_ENTER":
                 [
@@ -35,7 +35,9 @@
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.wav"
+                    "sounds/burtir1.wav",
+                    "sounds/burtir2.wav",
+                    "sounds/burtir3.wav"
                 ]
             }
        }
