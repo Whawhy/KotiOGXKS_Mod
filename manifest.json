@@ -10,7 +10,7 @@
     "author": "Whawhy",
     "developer":
     {
-        "name": "Opera Software"
+        "name": "Whawhy"
     },
     "mod":
     {
@@ -22,8 +22,7 @@
                 "TYPING_LETTER":
                 [
                     "sounds/onia.wav",
-                    "sounds/onia2.wav",
-                    "sounds/onia3.wav"
+                    "sounds/burgir.wav"
                 ],
                 "TYPING_ENTER":
                 [
@@ -31,10 +30,14 @@
                 ],
                 "TYPING_BACKSPACE":
                 [
-                    "sounds/ayooo.wav"
+                    "sounds/ayooo.wav",
+                    "sounds/tite.wav"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/space.wav"
                 ]
             }
        }
-    }
-    
+    }  
 }
