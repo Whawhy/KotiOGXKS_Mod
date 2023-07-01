@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "name": "Koti ña",
+    "description": "Por y para kotifans.",
+    "version": "0.5",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "author": "Whawhy",
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/onia1.wav",
+                    "sounds/onia2.wav",
+                    "sounds/onia3.wav"
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/niania.wav"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/anio.wav"
+                ]
+            }
+       }
+    }
+    
+}
