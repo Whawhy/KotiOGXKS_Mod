@@ -21,7 +21,10 @@
             {
                 "TYPING_LETTER":
                 [
-                    "sounds/onia.wav"
+                    "sounds/onia.wav",
+                    "sounds/unio.wav",
+                    "sounds/nio.wav",
+                    "sounds/te.wav"
                  
                 ],
                 "TYPING_ENTER":
